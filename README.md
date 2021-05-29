@@ -15,16 +15,18 @@ The following **required** functionality is complete:
 * [x] Unit 5: Score(In Percentage) - 100%
 * [x] Unit 6: Score(In Percentage) - 64%
 
+
+## Notes
+
+**Overall Lab Project Percentage - 108%**
+
+
 ## Report Weekly Lab Picture
 
 Here's a picture of implemented user stories:
 
 ![Capture](https://user-images.githubusercontent.com/73560206/120075351-e7a1ac80-c06e-11eb-9b54-a55e3cf9afa3.PNG)
 
-
-## Notes
-
-**Overall Lab Project Percentage - 108%**
 
 
 ## License
