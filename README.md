@@ -8,12 +8,12 @@ Submitted by: Bishan Rayamajhi
 
 The following **required** functionality is complete:
 
-* [x] Week 1: Score(In Percentage) - 120%
-* [x] Week 2: Score(In Percentage) - 146%
-* [x] Week 3: Score(In Percentage) - 109%
-* [x] Week 4: Score(In Percentage) - 104%
-* [x] Week 5: Score(In Percentage) - 100%
-* [x] Week 6: Score(In Percentage) - 64%
+* [x] Unit 1: Score(In Percentage) - 120%
+* [x] Unit 2: Score(In Percentage) - 146%
+* [x] Unit 3: Score(In Percentage) - 109%
+* [x] Unit 4: Score(In Percentage) - 104%
+* [x] Unit 5: Score(In Percentage) - 100%
+* [x] Unit 6: Score(In Percentage) - 64%
 
 ## Report Weekly Lab Picture
 
